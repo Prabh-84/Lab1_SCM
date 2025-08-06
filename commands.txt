@@ -1,0 +1,18 @@
+Basic Git Commands:
+- git init: Initialises a new Git repository in the current directory.
+- git clone: Creates a copy of a remote repository on your local machine.
+- git add: Stages changes for commit, preparing them to be included in the next commit.
+- git commit: Creates a new commit with the staged changes and a descriptive message.
+- git status: Shows the current status of the working directory, including tracked and
+untracked files.
+- git log: Displays a chronological list of commits in the repository, showing their
+commit messages, authors, and timestamps.
+- git branch: Lists, creates, or deletes branches within the repository.
+- git checkout: Switches between branches, commits, or tags. It's used to navigate
+through the repository's history.
+- git merge: Combines changes from different branches, integrating them into the
+current branch.
+- git pull: Fetches changes from a remote repository and merges them into the current
+branch.
+- git push: Sends local commits to a remote repository, updating it with the latest
+changes.
